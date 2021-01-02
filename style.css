@@ -1,7 +1,11 @@
 
-header {
+body > header {
     background-color: rgb(41, 93, 184);
     margin: 10px;
+}
+
+body > header > nav > ul > li {
+    list-style: none;
 }
 
 footer {
