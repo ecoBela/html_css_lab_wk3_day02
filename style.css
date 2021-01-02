@@ -23,3 +23,7 @@ body > main {
 footer {
     background-color: rgb(32, 88, 184);
 }
+footer > p {
+    color: white;
+    text-align: center; 
+}
