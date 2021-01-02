@@ -1,11 +1,23 @@
 
+body {
+    margin: 0px;
+}
+
 body > header {
     background-color: rgb(41, 93, 184);
     margin: 10px;
+    padding: 10px;
+    color: white;
 }
 
 body > header > nav > ul > li {
     list-style: none;
+    color: white;
+}
+
+body > main {
+    margin: auto;
+    width: 80%;
 }
 
 footer {
